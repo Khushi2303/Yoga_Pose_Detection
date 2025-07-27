@@ -1,3 +1,8 @@
+AI-powered real-time yoga pose detection and correction system using OpenPose and OpenCV. Tracks body posture and provides instant feedback. IEEE Conference paper accepted!
+Tech: Python, OpenCV, OpenPose
+Real-time camera integration
+Paper Published (SCEECS 2025)
+
 ![WhatsApp Image 2024-10-21 at 13 20 55_29745d34](https://github.com/user-attachments/assets/ccc0e6b4-f81b-45ab-a359-216a3081030f)
 ![WhatsApp Image 2024-10-21 at 13 20 56_01f0b85e](https://github.com/user-attachments/assets/8025c8b5-5ca0-4021-8887-5cf9b622942f)
 ![WhatsApp Image 2024-10-21 at 13 20 54_32d736d6](https://github.com/user-attachments/assets/8ac0e56e-599b-4b05-8ff3-8e3325709df7)
